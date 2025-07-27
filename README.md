@@ -20,7 +20,7 @@
 ## ⚙️ Installation & Usage
 
 1. **Clone the repository**  
-   `git clone https://github.com/your-username/wanderlust.git && cd wanderlust`
+   `git clone https://github.com/username/wanderlust.git && cd wanderlust`
 
 2. **Install dependencies**  
    `npm install`
